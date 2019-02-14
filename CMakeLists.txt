@@ -1,0 +1,21 @@
+message("")
+message("CMAKE_PREFIX_PATH:    ${CMAKE_PREFIX_PATH}")
+message("CMAKE_FRAMEOWRK_PATH: ${CMAKE_FRAMEOWRK_PATH}")
+message("CMAKE_APPBUNDLE_PATH: ${CMAKE_APPBUNDLE_PATH}")
+message("")
+
+message("HINTS: ${HINTS}")
+message("PATH:  ${PATH}")
+message("")
+
+message("CMAKE_SYSTEM_PREFIX_PATH:    ${CMAKE_SYSTEM_PREFIX_PATH}")       
+message("CMAKE_SYSTEM_FRAMEWORK_PATH: ${CMAKE_SYSTEM_FRAMEWORK_PATH}") 
+message("CMAKE_SYSTEM_APPBUNDLE_PATH: ${CMAKE_SYSTEM_APPBUNDLE_PATH}") 
+message("")
+
+message("PATHS: ${PATHS}")
+message("")
+
+message("CMAKE_MODULE_PATH: ${CMAKE_MODULE_PATH}")
+message("")
+
